@@ -37,3 +37,4 @@ Balanced Accuracy Score: 0.7877672625306695
 Balanced Accuracy Score: 0.925427358175101
 
 ## Summary
+Based on the analysis of the machine learning models, utilizing the Easy Ensemble AdaBoost Classifier would be the best choice. The balanced accuracy score is approximately 92.5%, while the next closest model's balanced accuracy score was only at 78.8%. The precision for the all the models were similar with the precision being low on high-risk loans and high for low-risk loans. The Easy Ensemble AdaBoost Classifier did have the highest recall score as well making it the best option out of these machine learning models. 
